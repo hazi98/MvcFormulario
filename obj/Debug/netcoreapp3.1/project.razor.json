@@ -20521,13 +20521,28 @@
   "RootNamespace": "MvcFormulario",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Delete.cshtml",
+      "TargetPath": "Views\\Formulario\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Create.cshtml",
+      "TargetPath": "Views\\Formulario\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Edit.cshtml",
+      "TargetPath": "Views\\Formulario\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20551,8 +20566,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Details.cshtml",
+      "TargetPath": "Views\\Formulario\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Index.cshtml",
+      "TargetPath": "Views\\Formulario\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
