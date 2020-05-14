@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\MvcFormulario.csproj",
+  "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\MvcFormulario.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,63 +20521,63 @@
   "RootNamespace": "MvcFormulario",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Delete.cshtml",
-      "TargetPath": "Views\\Formulario\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Create.cshtml",
-      "TargetPath": "Views\\Formulario\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Edit.cshtml",
-      "TargetPath": "Views\\Formulario\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Details.cshtml",
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Formulario\\Details.cshtml",
       "TargetPath": "Views\\Formulario\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Formulario\\Create.cshtml",
+      "TargetPath": "Views\\Formulario\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Jassiel\\source\\repos\\MvcFormulario\\Views\\Formulario\\Index.cshtml",
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Formulario\\Edit.cshtml",
+      "TargetPath": "Views\\Formulario\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Formulario\\Index.cshtml",
       "TargetPath": "Views\\Formulario\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\Views\\Formulario\\Delete.cshtml",
+      "TargetPath": "Views\\Formulario\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],

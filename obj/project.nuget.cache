@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P50lFeIouzE4R47l/hTnPZTmT364bDTQ98lzJxUW9J1EwgkqI5i3uNmsCkVQUQQfxoLGd6PrJLW9OpmYgLzDEg==",
+  "dgSpecHash": "Gz4K790Yor9l/cCzyHmaL1RxLMSBlOLQz3RJdyHfgQoFb6oDctCVqG/b0q6k0rGc7jIQP0eYgfPV4V6qQ1J7Mg==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\MvcFormulario\\MvcFormulario.csproj",
+  "projectFilePath": "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\MvcFormulario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

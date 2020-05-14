@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\MvcFormulario\\MvcFormulario.csproj": {}
+    "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\MvcFormulario.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\MvcFormulario\\MvcFormulario.csproj": {
+    "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\MvcFormulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\MvcFormulario\\MvcFormulario.csproj",
+        "projectUniqueName": "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\MvcFormulario.csproj",
         "projectName": "MvcFormulario",
-        "projectPath": "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\MvcFormulario\\MvcFormulario.csproj",
+        "projectPath": "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\MvcFormulario.csproj",
         "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\MvcFormulario\\obj\\",
+        "outputPath": "D:\\OneDrive - Universidad La Salle, A.C\\8vo semestre\\dESARROLLO DE APLICACIONES WEB\\Actividades .NET\\MvcFormulario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
