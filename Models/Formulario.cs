@@ -1,5 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections.Generic;
 
@@ -28,7 +30,9 @@ namespace MvcFormulario.Models
         public string Character { get; set; }
         public string CDivision { get; set; }
         public string ODivision { get; set; }
+        [Display(Name = "Premium Service")]
         public bool PremiumService { get; set; }
+        [Display(Name = "Creation Date")]
         [DataType(DataType.Date)]
         public DateTime CreationDate { get; set; }
 

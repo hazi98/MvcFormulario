@@ -45,7 +45,12 @@
             </div>
             <div class="form-group">
                 <label asp-for="Game" class="control-label"></label>
-                <input asp-for="Game" class="form-control" />
+                <select asp-for="Game">
+                    <option value="lol">League of Legends</option>
+                    <option value="overwatch">Overwatch</option>
+                    <option value="codm">COD Movil</option>
+                    <option value="valorant">Valorant</option>
+                </select>
                 <span asp-validation-for="Game" class="text-danger"></span>
             </div>
             <div class="form-group">

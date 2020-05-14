@@ -20,11 +20,17 @@ namespace MvcFormulario.Controllers
         }
 
         // GET: Formulario
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Formulario.ToListAsync());
-        }
+            var formulario = from m in _context.Formulario
+                        select m;
 
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                formulario = formulario.Where(s => s.Gamertag.Contains(searchString));
+            }
+            return View(await formulario.ToListAsync());
+        }
         // GET: Formulario/Details/5
         public async Task<IActionResult> Details(int? id)
         {
